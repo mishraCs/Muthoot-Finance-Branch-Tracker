@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Find branch information by PIN code across MFL, MML, and South lists.">
+  <title>Muthoot Branch Finder</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="./" aria-label="Muthoot Finance Branch Finder home">
+      <img class="brand-logo" src="branch-data/muthoot_logo.png" alt="Muthoot Finance">
+      <span class="brand-name"><strong>MUTHOOT FINANCE</strong><small>BRANCH DIRECTORY</small></span>
+    </a>
+    <div class="header-copy">
+      <p class="eyebrow">BRANCH DIRECTORY</p>
+      <h1>Muthoot Branch Finder</h1>
+      <p class="subheading">Search branch information by PIN code across MFL, MML, and South.</p>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="search-panel" aria-labelledby="search-title">
+      <h2 id="search-title">Search by PIN code</h2>
+      <p class="hint">Type a PIN code to filter branch results instantly.</p>
+      <form id="searchForm" class="search-form">
+        <label class="sr-only" for="pincode">Search PIN code</label>
+        <input id="pincode" name="pincode" type="search" inputmode="numeric"
+          maxlength="6" pattern="[0-9]{0,6}" placeholder="Type a PIN code (e.g. 110001)"
+          autocomplete="postal-code">
+        <button type="submit">Search</button>
+      </form>
+      <p id="status" class="status" role="status" aria-live="polite"></p>
+    </section>
+
+    <section class="directory" aria-labelledby="directory-title">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">LIVE RESULTS</p>
+          <h2 id="directory-title">Branch lists</h2>
+        </div>
+        <span id="count" class="count">Loading branches…</span>
+      </div>
+      <div class="tabs" role="tablist" aria-label="Filter by branch list">
+        <button class="tab" role="tab" aria-selected="false" data-list="MFL">MFL Branch <span class="tab-count" id="count-MFL">0</span></button>
+        <button class="tab" role="tab" aria-selected="false" data-list="MML">MML <span class="tab-count" id="count-MML">0</span></button>
+        <button class="tab" role="tab" aria-selected="false" data-list="SOUTH">South <span class="tab-count" id="count-SOUTH">0</span></button>
+      </div>
+      <div id="results" class="results" aria-live="polite">
+        <div class="empty">Loading branch records…</div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>Created by <a href="https://www.linkedin.com/in/er-aakash-mishra-690292266/" target="_blank" rel="noopener noreferrer">Er. Aakash Mishra</a></p>
+  </footer>
+  <script src="app.js"></script>
+</body>
+</html>

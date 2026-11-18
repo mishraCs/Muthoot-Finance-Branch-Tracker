@@ -1,0 +1,502 @@
+[
+  {
+    "pincode": "600001",
+    "branch region": "Chennai",
+    "city": "Chennai",
+    "territoryCode": 4501,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 001",
+    "branchAddress": "Shop 1, Demo Plaza, George Town, Chennai, Tamil Nadu",
+    "list": "MFL",
+    "isDemoData": true
+  },
+  {
+    "pincode": "641001",
+    "branch region": "Coimbatore",
+    "city": "Coimbatore",
+    "territoryCode": 4502,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 002",
+    "branchAddress": "Shop 2, Demo Market, Town Hall, Coimbatore, Tamil Nadu",
+    "list": "MFL",
+    "isDemoData": true
+  },
+  {
+    "pincode": "625001",
+    "branch region": "Madurai",
+    "city": "Madurai",
+    "territoryCode": 4503,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 003",
+    "branchAddress": "Shop 3, Demo Complex, South Masi Street, Madurai, Tamil Nadu",
+    "list": "MFL",
+    "isDemoData": true
+  },
+  {
+    "pincode": "620001",
+    "branch region": "Tiruchirappalli",
+    "city": "Tiruchirappalli",
+    "territoryCode": 4504,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 004",
+    "branchAddress": "Shop 4, Demo Plaza, Teppakulam, Tiruchirappalli, Tamil Nadu",
+    "list": "MFL",
+    "isDemoData": true
+  },
+  {
+    "pincode": "641601",
+    "branch region": "Tiruppur",
+    "city": "Tiruppur",
+    "territoryCode": 4505,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 005",
+    "branchAddress": "Shop 5, Demo Market, Avinashi Road, Tiruppur, Tamil Nadu",
+    "list": "MFL",
+    "isDemoData": true
+  },
+  {
+    "pincode": "638001",
+    "branch region": "Erode",
+    "city": "Erode",
+    "territoryCode": 4506,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 006",
+    "branchAddress": "Shop 6, Demo Complex, Brough Road, Erode, Tamil Nadu",
+    "list": "MFL",
+    "isDemoData": true
+  },
+  {
+    "pincode": "636001",
+    "branch region": "Salem",
+    "city": "Salem",
+    "territoryCode": 4507,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 007",
+    "branchAddress": "Shop 7, Demo Plaza, First Agraharam, Salem, Tamil Nadu",
+    "list": "MFL",
+    "isDemoData": true
+  },
+  {
+    "pincode": "632001",
+    "branch region": "Vellore",
+    "city": "Vellore",
+    "territoryCode": 4508,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 008",
+    "branchAddress": "Shop 8, Demo Market, Gandhi Road, Vellore, Tamil Nadu",
+    "list": "MFL",
+    "isDemoData": true
+  },
+  {
+    "pincode": "631501",
+    "branch region": "Kanchipuram",
+    "city": "Kanchipuram",
+    "territoryCode": 4509,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 009",
+    "branchAddress": "Shop 9, Demo Complex, Gandhi Road, Kanchipuram, Tamil Nadu",
+    "list": "MFL",
+    "isDemoData": true
+  },
+  {
+    "pincode": "603001",
+    "branch region": "Chengalpattu",
+    "city": "Chengalpattu",
+    "territoryCode": 4510,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 010",
+    "branchAddress": "Shop 10, Demo Plaza, GST Road, Chengalpattu, Tamil Nadu",
+    "list": "MFL",
+    "isDemoData": true
+  },
+  {
+    "pincode": "607001",
+    "branch region": "Cuddalore",
+    "city": "Cuddalore",
+    "territoryCode": 4511,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 011",
+    "branchAddress": "Shop 11, Demo Market, Bharathi Road, Cuddalore, Tamil Nadu",
+    "list": "MFL",
+    "isDemoData": true
+  },
+  {
+    "pincode": "605001",
+    "branch region": "Pudukkottai",
+    "city": "Puducherry",
+    "territoryCode": 4512,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 012",
+    "branchAddress": "Shop 12, Demo Complex, Mission Street, Puducherry",
+    "list": "MFL",
+    "isDemoData": true
+  },
+  {
+    "pincode": "630001",
+    "branch region": "Sivaganga",
+    "city": "Sivaganga",
+    "territoryCode": 4513,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 013",
+    "branchAddress": "Shop 13, Demo Plaza, Main Road, Sivaganga, Tamil Nadu",
+    "list": "MFL",
+    "isDemoData": true
+  },
+  {
+    "pincode": "623501",
+    "branch region": "Ramanathapuram",
+    "city": "Ramanathapuram",
+    "territoryCode": 4514,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 014",
+    "branchAddress": "Shop 14, Demo Market, Bus Stand Road, Ramanathapuram, Tamil Nadu",
+    "list": "MFL",
+    "isDemoData": true
+  },
+  {
+    "pincode": "627001",
+    "branch region": "Tirunelveli",
+    "city": "Tirunelveli",
+    "territoryCode": 4515,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 015",
+    "branchAddress": "Shop 15, Demo Complex, Town Road, Tirunelveli, Tamil Nadu",
+    "list": "MFL",
+    "isDemoData": true
+  },
+  {
+    "pincode": "628001",
+    "branch region": "Thoothukudi",
+    "city": "Thoothukudi",
+    "territoryCode": 4516,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 016",
+    "branchAddress": "Shop 16, Demo Plaza, Beach Road, Thoothukudi, Tamil Nadu",
+    "list": "MFL",
+    "isDemoData": true
+  },
+  {
+    "pincode": "629001",
+    "branch region": "Kanniyakumari",
+    "city": "Nagercoil",
+    "territoryCode": 4517,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 017",
+    "branchAddress": "Shop 17, Demo Market, Court Road, Nagercoil, Tamil Nadu",
+    "list": "MFL",
+    "isDemoData": true
+  },
+  {
+    "pincode": "610001",
+    "branch region": "Thiruvarur",
+    "city": "Thiruvarur",
+    "territoryCode": 4518,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 018",
+    "branchAddress": "Shop 18, Demo Complex, Main Road, Thiruvarur, Tamil Nadu",
+    "list": "MFL",
+    "isDemoData": true
+  },
+  {
+    "pincode": "611001",
+    "branch region": "Nagapattinam",
+    "city": "Nagapattinam",
+    "territoryCode": 4519,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 019",
+    "branchAddress": "Shop 19, Demo Plaza, Market Road, Nagapattinam, Tamil Nadu",
+    "list": "MFL",
+    "isDemoData": true
+  },
+  {
+    "pincode": "614001",
+    "branch region": "Thanjavur",
+    "city": "Thanjavur",
+    "territoryCode": 4520,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 020",
+    "branchAddress": "Shop 20, Demo Market, South Main Street, Thanjavur, Tamil Nadu",
+    "list": "MFL",
+    "isDemoData": true
+  },
+  {
+    "pincode": "621001",
+    "branch region": "Perambalur",
+    "city": "Perambalur",
+    "territoryCode": 4521,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 021",
+    "branchAddress": "Shop 21, Demo Complex, New Bus Stand Road, Perambalur, Tamil Nadu",
+    "list": "MML",
+    "isDemoData": true
+  },
+  {
+    "pincode": "621212",
+    "branch region": "Ariyalur",
+    "city": "Ariyalur",
+    "territoryCode": 4522,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 022",
+    "branchAddress": "Shop 22, Demo Plaza, Main Bazaar, Ariyalur, Tamil Nadu",
+    "list": "MML",
+    "isDemoData": true
+  },
+  {
+    "pincode": "621701",
+    "branch region": "Tiruchirappalli",
+    "city": "Lalgudi",
+    "territoryCode": 4523,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 023",
+    "branchAddress": "Shop 23, Demo Market, Bus Stand Road, Lalgudi, Tamil Nadu",
+    "list": "MML",
+    "isDemoData": true
+  },
+  {
+    "pincode": "622001",
+    "branch region": "Pudukkottai",
+    "city": "Pudukkottai",
+    "territoryCode": 4524,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 024",
+    "branchAddress": "Shop 24, Demo Complex, East Main Road, Pudukkottai, Tamil Nadu",
+    "list": "MML",
+    "isDemoData": true
+  },
+  {
+    "pincode": "623001",
+    "branch region": "Ramanathapuram",
+    "city": "Paramakudi",
+    "territoryCode": 4525,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 025",
+    "branchAddress": "Shop 25, Demo Plaza, Market Street, Paramakudi, Tamil Nadu",
+    "list": "MML",
+    "isDemoData": true
+  },
+  {
+    "pincode": "624001",
+    "branch region": "Dindigul",
+    "city": "Dindigul",
+    "territoryCode": 4526,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 026",
+    "branchAddress": "Shop 26, Demo Market, Main Road, Dindigul, Tamil Nadu",
+    "list": "MML",
+    "isDemoData": true
+  },
+  {
+    "pincode": "626001",
+    "branch region": "Virudhunagar",
+    "city": "Virudhunagar",
+    "territoryCode": 4527,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 027",
+    "branchAddress": "Shop 27, Demo Complex, Bazaar Street, Virudhunagar, Tamil Nadu",
+    "list": "MML",
+    "isDemoData": true
+  },
+  {
+    "pincode": "627011",
+    "branch region": "Tirunelveli",
+    "city": "Palayamkottai",
+    "territoryCode": 4528,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 028",
+    "branchAddress": "Shop 28, Demo Plaza, Main Road, Palayamkottai, Tamil Nadu",
+    "list": "MML",
+    "isDemoData": true
+  },
+  {
+    "pincode": "629501",
+    "branch region": "Kanniyakumari",
+    "city": "Marthandam",
+    "territoryCode": 4529,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 029",
+    "branchAddress": "Shop 29, Demo Market, Bus Stand Road, Marthandam, Tamil Nadu",
+    "list": "MML",
+    "isDemoData": true
+  },
+  {
+    "pincode": "630561",
+    "branch region": "Sivaganga",
+    "city": "Karaikudi",
+    "territoryCode": 4530,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 030",
+    "branchAddress": "Shop 30, Demo Complex, Sekkalai Road, Karaikudi, Tamil Nadu",
+    "list": "MML",
+    "isDemoData": true
+  },
+  {
+    "pincode": "631001",
+    "branch region": "Tiruvallur",
+    "city": "Tiruvallur",
+    "territoryCode": 4531,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 031",
+    "branchAddress": "Shop 31, Demo Plaza, J.N. Road, Tiruvallur, Tamil Nadu",
+    "list": "SOUTH",
+    "isDemoData": true
+  },
+  {
+    "pincode": "632601",
+    "branch region": "Tirupattur",
+    "city": "Tirupattur",
+    "territoryCode": 4532,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 032",
+    "branchAddress": "Shop 32, Demo Market, Main Road, Tirupattur, Tamil Nadu",
+    "list": "SOUTH",
+    "isDemoData": true
+  },
+  {
+    "pincode": "635109",
+    "branch region": "Krishnagiri",
+    "city": "Hosur",
+    "territoryCode": 4533,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 033",
+    "branchAddress": "Shop 33, Demo Complex, Bagalur Road, Hosur, Tamil Nadu",
+    "list": "SOUTH",
+    "isDemoData": true
+  },
+  {
+    "pincode": "636701",
+    "branch region": "Dharmapuri",
+    "city": "Dharmapuri",
+    "territoryCode": 4534,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 034",
+    "branchAddress": "Shop 34, Demo Plaza, Nethaji Bypass Road, Dharmapuri, Tamil Nadu",
+    "list": "SOUTH",
+    "isDemoData": true
+  },
+  {
+    "pincode": "637001",
+    "branch region": "Namakkal",
+    "city": "Namakkal",
+    "territoryCode": 4535,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 035",
+    "branchAddress": "Shop 35, Demo Market, Mohanur Road, Namakkal, Tamil Nadu",
+    "list": "SOUTH",
+    "isDemoData": true
+  },
+  {
+    "pincode": "638301",
+    "branch region": "Tiruppur",
+    "city": "Dharapuram",
+    "territoryCode": 4536,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 036",
+    "branchAddress": "Shop 36, Demo Complex, Palani Road, Dharapuram, Tamil Nadu",
+    "list": "SOUTH",
+    "isDemoData": true
+  },
+  {
+    "pincode": "639001",
+    "branch region": "Karur",
+    "city": "Karur",
+    "territoryCode": 4537,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 037",
+    "branchAddress": "Shop 37, Demo Plaza, Kovai Road, Karur, Tamil Nadu",
+    "list": "SOUTH",
+    "isDemoData": true
+  },
+  {
+    "pincode": "641301",
+    "branch region": "Coimbatore",
+    "city": "Pollachi",
+    "territoryCode": 4538,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 038",
+    "branchAddress": "Shop 38, Demo Market, Main Road, Pollachi, Tamil Nadu",
+    "list": "SOUTH",
+    "isDemoData": true
+  },
+  {
+    "pincode": "643001",
+    "branch region": "Nilgiris",
+    "city": "Ooty",
+    "territoryCode": 4539,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 039",
+    "branchAddress": "Shop 39, Demo Complex, Commercial Road, Ooty, Tamil Nadu",
+    "list": "SOUTH",
+    "isDemoData": true
+  },
+  {
+    "pincode": "604001",
+    "branch region": "Villupuram",
+    "city": "Villupuram",
+    "territoryCode": 4540,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 040",
+    "branchAddress": "Shop 40, Demo Plaza, Trichy Main Road, Villupuram, Tamil Nadu",
+    "list": "SOUTH",
+    "isDemoData": true
+  },
+  {
+    "pincode": "606001",
+    "branch region": "Kallakurichi",
+    "city": "Kallakurichi",
+    "territoryCode": 4541,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 041",
+    "branchAddress": "Shop 41, Demo Market, Salem Main Road, Kallakurichi, Tamil Nadu",
+    "list": "SOUTH",
+    "isDemoData": true
+  },
+  {
+    "pincode": "606601",
+    "branch region": "Tiruvannamalai",
+    "city": "Tiruvannamalai",
+    "territoryCode": 4542,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 042",
+    "branchAddress": "Shop 42, Demo Complex, Chengam Road, Tiruvannamalai, Tamil Nadu",
+    "list": "SOUTH",
+    "isDemoData": true
+  },
+  {
+    "pincode": "609001",
+    "branch region": "Mayiladuthurai",
+    "city": "Mayiladuthurai",
+    "territoryCode": 4543,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 043",
+    "branchAddress": "Shop 43, Demo Plaza, Pattamangala Street, Mayiladuthurai, Tamil Nadu",
+    "list": "SOUTH",
+    "isDemoData": true
+  },
+  {
+    "pincode": "612001",
+    "branch region": "Thanjavur",
+    "city": "Kumbakonam",
+    "territoryCode": 4544,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 044",
+    "branchAddress": "Shop 44, Demo Market, Big Street, Kumbakonam, Tamil Nadu",
+    "list": "SOUTH",
+    "isDemoData": true
+  },
+  {
+    "pincode": "613001",
+    "branch region": "Thanjavur",
+    "city": "Thanjavur",
+    "territoryCode": 4545,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 045",
+    "branchAddress": "Shop 45, Demo Complex, Medical College Road, Thanjavur, Tamil Nadu",
+    "list": "SOUTH",
+    "isDemoData": true
+  },
+  {
+    "pincode": "620018",
+    "branch region": "Tiruchirappalli",
+    "city": "Srirangam",
+    "territoryCode": 4546,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 046",
+    "branchAddress": "Shop 46, Demo Plaza, Amma Mandapam Road, Srirangam, Tamil Nadu",
+    "list": "SOUTH",
+    "isDemoData": true
+  },
+  {
+    "pincode": "625020",
+    "branch region": "Madurai",
+    "city": "Thiruparankundram",
+    "territoryCode": 4547,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 047",
+    "branchAddress": "Shop 47, Demo Market, Temple Road, Thiruparankundram, Tamil Nadu",
+    "list": "SOUTH",
+    "isDemoData": true
+  },
+  {
+    "pincode": "627803",
+    "branch region": "Tenkasi",
+    "city": "Tenkasi",
+    "territoryCode": 4548,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 048",
+    "branchAddress": "Shop 48, Demo Complex, Courtallam Road, Tenkasi, Tamil Nadu",
+    "list": "SOUTH",
+    "isDemoData": true
+  },
+  {
+    "pincode": "629702",
+    "branch region": "Kanniyakumari",
+    "city": "Kanyakumari",
+    "territoryCode": 4549,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 049",
+    "branchAddress": "Shop 49, Demo Plaza, Beach Road, Kanyakumari, Tamil Nadu",
+    "list": "SOUTH",
+    "isDemoData": true
+  },
+  {
+    "pincode": "600042",
+    "branch region": "Chennai",
+    "city": "Velachery",
+    "territoryCode": 4550,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 050",
+    "branchAddress": "Shop 50, Demo Market, Velachery Main Road, Chennai, Tamil Nadu",
+    "list": "SOUTH",
+    "isDemoData": true
+  }
+]

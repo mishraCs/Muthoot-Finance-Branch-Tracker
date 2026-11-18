@@ -1,0 +1,502 @@
+[
+  {
+    "pincode": "380001",
+    "branch region": "Ahmedabad Central",
+    "city": "Ahmedabad",
+    "territoryCode": 4601,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 001",
+    "branchAddress": "Shop 1, Demo Plaza, Relief Road, Ahmedabad, Gujarat",
+    "list": "MFL",
+    "isDemoData": true
+  },
+  {
+    "pincode": "380002",
+    "branch region": "Ahmedabad North",
+    "city": "Ahmedabad",
+    "territoryCode": 4602,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 002",
+    "branchAddress": "Shop 2, Demo Market, Shahibaug, Ahmedabad, Gujarat",
+    "list": "MFL",
+    "isDemoData": true
+  },
+  {
+    "pincode": "380004",
+    "branch region": "Ahmedabad Central",
+    "city": "Ahmedabad",
+    "territoryCode": 4603,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 003",
+    "branchAddress": "Shop 3, Demo Complex, Delhi Darwaja, Ahmedabad, Gujarat",
+    "list": "MFL",
+    "isDemoData": true
+  },
+  {
+    "pincode": "380005",
+    "branch region": "Sabarmati",
+    "city": "Ahmedabad",
+    "territoryCode": 4604,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 004",
+    "branchAddress": "Shop 4, Demo Plaza, Sabarmati Main Road, Ahmedabad, Gujarat",
+    "list": "MFL",
+    "isDemoData": true
+  },
+  {
+    "pincode": "380006",
+    "branch region": "Ellis Bridge",
+    "city": "Ahmedabad",
+    "territoryCode": 4605,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 005",
+    "branchAddress": "Shop 5, Demo Market, Ellis Bridge, Ahmedabad, Gujarat",
+    "list": "MFL",
+    "isDemoData": true
+  },
+  {
+    "pincode": "380007",
+    "branch region": "Paldi",
+    "city": "Ahmedabad",
+    "territoryCode": 4606,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 006",
+    "branchAddress": "Shop 6, Demo Complex, Paldi Cross Road, Ahmedabad, Gujarat",
+    "list": "MFL",
+    "isDemoData": true
+  },
+  {
+    "pincode": "380008",
+    "branch region": "Maninagar",
+    "city": "Ahmedabad",
+    "territoryCode": 4607,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 007",
+    "branchAddress": "Shop 7, Demo Plaza, Maninagar Station Road, Ahmedabad, Gujarat",
+    "list": "MFL",
+    "isDemoData": true
+  },
+  {
+    "pincode": "380009",
+    "branch region": "Navrangpura",
+    "city": "Ahmedabad",
+    "territoryCode": 4608,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 008",
+    "branchAddress": "Shop 8, Demo Market, Navrangpura, Ahmedabad, Gujarat",
+    "list": "MFL",
+    "isDemoData": true
+  },
+  {
+    "pincode": "380013",
+    "branch region": "Naranpura",
+    "city": "Ahmedabad",
+    "territoryCode": 4609,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 009",
+    "branchAddress": "Shop 9, Demo Complex, Naranpura Road, Ahmedabad, Gujarat",
+    "list": "MFL",
+    "isDemoData": true
+  },
+  {
+    "pincode": "380014",
+    "branch region": "Usmanpura",
+    "city": "Ahmedabad",
+    "territoryCode": 4610,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 010",
+    "branchAddress": "Shop 10, Demo Plaza, Usmanpura Cross Road, Ahmedabad, Gujarat",
+    "list": "MFL",
+    "isDemoData": true
+  },
+  {
+    "pincode": "380015",
+    "branch region": "Satellite",
+    "city": "Ahmedabad",
+    "territoryCode": 4611,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 011",
+    "branchAddress": "Shop 11, Demo Market, Satellite Road, Ahmedabad, Gujarat",
+    "list": "MFL",
+    "isDemoData": true
+  },
+  {
+    "pincode": "380016",
+    "branch region": "Meghaninagar",
+    "city": "Ahmedabad",
+    "territoryCode": 4612,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 012",
+    "branchAddress": "Shop 12, Demo Complex, Meghaninagar Main Road, Ahmedabad, Gujarat",
+    "list": "MFL",
+    "isDemoData": true
+  },
+  {
+    "pincode": "380018",
+    "branch region": "Bapunagar",
+    "city": "Ahmedabad",
+    "territoryCode": 4613,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 013",
+    "branchAddress": "Shop 13, Demo Plaza, Bapunagar Road, Ahmedabad, Gujarat",
+    "list": "MFL",
+    "isDemoData": true
+  },
+  {
+    "pincode": "380019",
+    "branch region": "Sardarnagar",
+    "city": "Ahmedabad",
+    "territoryCode": 4614,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 014",
+    "branchAddress": "Shop 14, Demo Market, Sardarnagar Circle, Ahmedabad, Gujarat",
+    "list": "MFL",
+    "isDemoData": true
+  },
+  {
+    "pincode": "380021",
+    "branch region": "Amraiwadi",
+    "city": "Ahmedabad",
+    "territoryCode": 4615,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 015",
+    "branchAddress": "Shop 15, Demo Complex, Amraiwadi Road, Ahmedabad, Gujarat",
+    "list": "MFL",
+    "isDemoData": true
+  },
+  {
+    "pincode": "380022",
+    "branch region": "Khokhra",
+    "city": "Ahmedabad",
+    "territoryCode": 4616,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 016",
+    "branchAddress": "Shop 16, Demo Plaza, Khokhra Circle, Ahmedabad, Gujarat",
+    "list": "MFL",
+    "isDemoData": true
+  },
+  {
+    "pincode": "380023",
+    "branch region": "Naroda",
+    "city": "Ahmedabad",
+    "territoryCode": 4617,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 017",
+    "branchAddress": "Shop 17, Demo Market, Naroda Road, Ahmedabad, Gujarat",
+    "list": "MFL",
+    "isDemoData": true
+  },
+  {
+    "pincode": "380024",
+    "branch region": "Rakhial",
+    "city": "Ahmedabad",
+    "territoryCode": 4618,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 018",
+    "branchAddress": "Shop 18, Demo Complex, Rakhial Industrial Road, Ahmedabad, Gujarat",
+    "list": "MFL",
+    "isDemoData": true
+  },
+  {
+    "pincode": "380025",
+    "branch region": "Asarwa",
+    "city": "Ahmedabad",
+    "territoryCode": 4619,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 019",
+    "branchAddress": "Shop 19, Demo Plaza, Asarwa Road, Ahmedabad, Gujarat",
+    "list": "MFL",
+    "isDemoData": true
+  },
+  {
+    "pincode": "380026",
+    "branch region": "Odhav",
+    "city": "Ahmedabad",
+    "territoryCode": 4620,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 020",
+    "branchAddress": "Shop 20, Demo Market, Odhav Ring Road, Ahmedabad, Gujarat",
+    "list": "MFL",
+    "isDemoData": true
+  },
+  {
+    "pincode": "380028",
+    "branch region": "Dariyapur",
+    "city": "Ahmedabad",
+    "territoryCode": 4621,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 021",
+    "branchAddress": "Shop 21, Demo Complex, Dariyapur Gate, Ahmedabad, Gujarat",
+    "list": "MML",
+    "isDemoData": true
+  },
+  {
+    "pincode": "380050",
+    "branch region": "Vastral",
+    "city": "Ahmedabad",
+    "territoryCode": 4622,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 022",
+    "branchAddress": "Shop 22, Demo Plaza, Vastral Road, Ahmedabad, Gujarat",
+    "list": "MML",
+    "isDemoData": true
+  },
+  {
+    "pincode": "380051",
+    "branch region": "Vejalpur",
+    "city": "Ahmedabad",
+    "territoryCode": 4623,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 023",
+    "branchAddress": "Shop 23, Demo Market, Vejalpur Main Road, Ahmedabad, Gujarat",
+    "list": "MML",
+    "isDemoData": true
+  },
+  {
+    "pincode": "380052",
+    "branch region": "Bodakdev",
+    "city": "Ahmedabad",
+    "territoryCode": 4624,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 024",
+    "branchAddress": "Shop 24, Demo Complex, Bodakdev Cross Road, Ahmedabad, Gujarat",
+    "list": "MML",
+    "isDemoData": true
+  },
+  {
+    "pincode": "380054",
+    "branch region": "Thaltej",
+    "city": "Ahmedabad",
+    "territoryCode": 4625,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 025",
+    "branchAddress": "Shop 25, Demo Plaza, Thaltej Road, Ahmedabad, Gujarat",
+    "list": "MML",
+    "isDemoData": true
+  },
+  {
+    "pincode": "380058",
+    "branch region": "South Bopal",
+    "city": "Ahmedabad",
+    "territoryCode": 4626,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 026",
+    "branchAddress": "Shop 26, Demo Market, South Bopal, Ahmedabad, Gujarat",
+    "list": "MML",
+    "isDemoData": true
+  },
+  {
+    "pincode": "380059",
+    "branch region": "Shela",
+    "city": "Ahmedabad",
+    "territoryCode": 4627,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 027",
+    "branchAddress": "Shop 27, Demo Complex, Shela Main Road, Ahmedabad, Gujarat",
+    "list": "MML",
+    "isDemoData": true
+  },
+  {
+    "pincode": "382330",
+    "branch region": "Gota",
+    "city": "Ahmedabad",
+    "territoryCode": 4628,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 028",
+    "branchAddress": "Shop 28, Demo Plaza, Gota Road, Ahmedabad, Gujarat",
+    "list": "MML",
+    "isDemoData": true
+  },
+  {
+    "pincode": "382345",
+    "branch region": "Chandkheda",
+    "city": "Ahmedabad",
+    "territoryCode": 4629,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 029",
+    "branchAddress": "Shop 29, Demo Market, Chandkheda Main Road, Ahmedabad, Gujarat",
+    "list": "MML",
+    "isDemoData": true
+  },
+  {
+    "pincode": "382424",
+    "branch region": "Bhat",
+    "city": "Ahmedabad",
+    "territoryCode": 4630,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 030",
+    "branchAddress": "Shop 30, Demo Complex, Bhat Circle, Ahmedabad, Gujarat",
+    "list": "MML",
+    "isDemoData": true
+  },
+  {
+    "pincode": "382430",
+    "branch region": "Naroda GIDC",
+    "city": "Ahmedabad",
+    "territoryCode": 4631,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 031",
+    "branchAddress": "Shop 31, Demo Plaza, Naroda GIDC Road, Ahmedabad, Gujarat",
+    "list": "SOUTH",
+    "isDemoData": true
+  },
+  {
+    "pincode": "382443",
+    "branch region": "New Ranip",
+    "city": "Ahmedabad",
+    "territoryCode": 4632,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 032",
+    "branchAddress": "Shop 32, Demo Market, New Ranip Road, Ahmedabad, Gujarat",
+    "list": "SOUTH",
+    "isDemoData": true
+  },
+  {
+    "pincode": "382445",
+    "branch region": "Ranip",
+    "city": "Ahmedabad",
+    "territoryCode": 4633,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 033",
+    "branchAddress": "Shop 33, Demo Complex, Ranip Cross Road, Ahmedabad, Gujarat",
+    "list": "SOUTH",
+    "isDemoData": true
+  },
+  {
+    "pincode": "382475",
+    "branch region": "Ghatlodia",
+    "city": "Ahmedabad",
+    "territoryCode": 4634,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 034",
+    "branchAddress": "Shop 34, Demo Plaza, Ghatlodia Main Road, Ahmedabad, Gujarat",
+    "list": "SOUTH",
+    "isDemoData": true
+  },
+  {
+    "pincode": "382480",
+    "branch region": "Sola",
+    "city": "Ahmedabad",
+    "territoryCode": 4635,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 035",
+    "branchAddress": "Shop 35, Demo Market, Sola Road, Ahmedabad, Gujarat",
+    "list": "SOUTH",
+    "isDemoData": true
+  },
+  {
+    "pincode": "382481",
+    "branch region": "Science City",
+    "city": "Ahmedabad",
+    "territoryCode": 4636,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 036",
+    "branchAddress": "Shop 36, Demo Complex, Science City Road, Ahmedabad, Gujarat",
+    "list": "SOUTH",
+    "isDemoData": true
+  },
+  {
+    "pincode": "382350",
+    "branch region": "Zundal",
+    "city": "Ahmedabad",
+    "territoryCode": 4637,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 037",
+    "branchAddress": "Shop 37, Demo Plaza, Zundal Circle, Ahmedabad, Gujarat",
+    "list": "SOUTH",
+    "isDemoData": true
+  },
+  {
+    "pincode": "382421",
+    "branch region": "Motera",
+    "city": "Ahmedabad",
+    "territoryCode": 4638,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 038",
+    "branchAddress": "Shop 38, Demo Market, Motera Stadium Road, Ahmedabad, Gujarat",
+    "list": "SOUTH",
+    "isDemoData": true
+  },
+  {
+    "pincode": "382422",
+    "branch region": "Koteshwar",
+    "city": "Ahmedabad",
+    "territoryCode": 4639,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 039",
+    "branchAddress": "Shop 39, Demo Complex, Koteshwar Road, Ahmedabad, Gujarat",
+    "list": "SOUTH",
+    "isDemoData": true
+  },
+  {
+    "pincode": "382424",
+    "branch region": "Hanspura",
+    "city": "Ahmedabad",
+    "territoryCode": 4640,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 040",
+    "branchAddress": "Shop 40, Demo Plaza, Hanspura Road, Ahmedabad, Gujarat",
+    "list": "SOUTH",
+    "isDemoData": true
+  },
+  {
+    "pincode": "382427",
+    "branch region": "Nikol",
+    "city": "Ahmedabad",
+    "territoryCode": 4641,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 041",
+    "branchAddress": "Shop 41, Demo Market, Nikol Road, Ahmedabad, Gujarat",
+    "list": "SOUTH",
+    "isDemoData": true
+  },
+  {
+    "pincode": "382430",
+    "branch region": "Kathwada",
+    "city": "Ahmedabad",
+    "territoryCode": 4642,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 042",
+    "branchAddress": "Shop 42, Demo Complex, Kathwada GIDC Road, Ahmedabad, Gujarat",
+    "list": "SOUTH",
+    "isDemoData": true
+  },
+  {
+    "pincode": "382443",
+    "branch region": "Chandlodia",
+    "city": "Ahmedabad",
+    "territoryCode": 4643,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 043",
+    "branchAddress": "Shop 43, Demo Plaza, Chandlodia Road, Ahmedabad, Gujarat",
+    "list": "SOUTH",
+    "isDemoData": true
+  },
+  {
+    "pincode": "382449",
+    "branch region": "Tragad",
+    "city": "Ahmedabad",
+    "territoryCode": 4644,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 044",
+    "branchAddress": "Shop 44, Demo Market, Tragad Road, Ahmedabad, Gujarat",
+    "list": "SOUTH",
+    "isDemoData": true
+  },
+  {
+    "pincode": "382470",
+    "branch region": "Vaishnodevi",
+    "city": "Ahmedabad",
+    "territoryCode": 4645,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 045",
+    "branchAddress": "Shop 45, Demo Complex, Vaishnodevi Circle, Ahmedabad, Gujarat",
+    "list": "SOUTH",
+    "isDemoData": true
+  },
+  {
+    "pincode": "380055",
+    "branch region": "Juhapura",
+    "city": "Ahmedabad",
+    "territoryCode": 4646,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 046",
+    "branchAddress": "Shop 46, Demo Plaza, Juhapura Main Road, Ahmedabad, Gujarat",
+    "list": "SOUTH",
+    "isDemoData": true
+  },
+  {
+    "pincode": "380058",
+    "branch region": "Bopal",
+    "city": "Ahmedabad",
+    "territoryCode": 4647,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 047",
+    "branchAddress": "Shop 47, Demo Market, Bopal Cross Road, Ahmedabad, Gujarat",
+    "list": "SOUTH",
+    "isDemoData": true
+  },
+  {
+    "pincode": "380060",
+    "branch region": "Ambli",
+    "city": "Ahmedabad",
+    "territoryCode": 4648,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 048",
+    "branchAddress": "Shop 48, Demo Complex, Ambli Road, Ahmedabad, Gujarat",
+    "list": "SOUTH",
+    "isDemoData": true
+  },
+  {
+    "pincode": "380061",
+    "branch region": "Sindhu Bhavan",
+    "city": "Ahmedabad",
+    "territoryCode": 4649,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 049",
+    "branchAddress": "Shop 49, Demo Plaza, Sindhu Bhavan Road, Ahmedabad, Gujarat",
+    "list": "SOUTH",
+    "isDemoData": true
+  },
+  {
+    "pincode": "380063",
+    "branch region": "Prahlad Nagar",
+    "city": "Ahmedabad",
+    "territoryCode": 4650,
+    "branchName": "Muthoot Finance Ltd - Demo Branch 050",
+    "branchAddress": "Shop 50, Demo Market, Prahlad Nagar Road, Ahmedabad, Gujarat",
+    "list": "SOUTH",
+    "isDemoData": true
+  }
+]
