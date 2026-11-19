@@ -11,7 +11,7 @@ let activeList = "ALL";
 const results = document.getElementById("results");
 const statusEl = document.getElementById("status");
 const countEl = document.getElementById("count");
-const input = document.getElementById("pincode");
+const input = document.getElementById("branchSearch");
 
 function escapeHtml(value) {
   return String(value ?? "").replace(/[&<>"']/g, char => ({
@@ -46,10 +46,14 @@ function validTerritoryCode(value) {
 }
 
 function matchingBranches() {
-  const query = input.value.trim();
+  const query = input.value.trim().toLocaleLowerCase();
   return branches.filter(branch => {
     const pin = String(branch.pincode ?? branch.pinCode ?? "").trim();
-    return !query || pin.includes(query);
+    const city = String(branch.city ?? "").trim();
+    const address = String(branch.branchAddress ?? branch.address ?? "").trim();
+    return !query || [pin, city, address].some(value =>
+      value.toLocaleLowerCase().includes(query)
+    );
   });
 }
 
@@ -75,7 +79,7 @@ function render() {
     const query = input.value.trim();
     results.innerHTML = `<div class="empty">${
       query
-        ? `No ${escapeHtml(listName(activeList))} branches found for PIN search "${escapeHtml(query)}".`
+        ? `${activeList === "ALL" ? "No branches" : `No ${escapeHtml(listName(activeList))} branches`} found for "${escapeHtml(query)}".`
         : activeList === "ALL"
           ? "No branch records are available."
           : `${escapeHtml(listName(activeList))} branch data is not available yet.`
@@ -88,6 +92,7 @@ function render() {
     const pin = String(branch.pincode ?? branch.pinCode ?? "").trim();
     const branchName = String(branch.branchName ?? "").trim() || "Branch name not provided";
     const address = String(branch.branchAddress ?? branch.address ?? "").trim();
+    const city = String(branch.city ?? "").trim();
     return `
       <article class="branch-card">
         <div class="card-top">
@@ -96,6 +101,7 @@ function render() {
         </div>
         <p class="pin">PIN: ${escapeHtml(pin || "Not provided")}</p>
         <dl class="details">
+          <div><dt>City</dt><dd>${escapeHtml(city || "Not provided")}</dd></div>
           <div><dt>Territory code</dt><dd>${escapeHtml(code || "Not provided")}</dd></div>
           <div><dt>Branch address</dt><dd>${escapeHtml(address || "Not provided")}</dd></div>
         </dl>
@@ -105,9 +111,8 @@ function render() {
 }
 
 input.addEventListener("input", () => {
-  input.value = input.value.replace(/\D/g, "").slice(0, 6);
   statusEl.textContent = input.value
-    ? `Showing matches as you type: ${input.value}`
+    ? `Showing matches as you type: ${input.value.trim()}`
     : "Showing all branches.";
   render();
 });
@@ -170,7 +175,7 @@ Promise.all(DATA_FILES.map(async ({ url, list }) => {
     const missingCodes = branches.filter(branch => !branch.territoryCode).length;
     statusEl.textContent = missingCodes
       ? `${missingCodes} branch ${missingCodes === 1 ? "record has" : "records have"} no valid 4-digit territory code.`
-      : "Showing all branches. Enter a PIN to filter instantly.";
+      : "Showing all branches. Search by PIN code, city, or address.";
     render();
   })
   .catch(error => {

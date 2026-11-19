@@ -1,6 +1,6 @@
 # Muthoot Branch Finder
 
-A static branch directory that displays all records by default and filters them live as a PIN code is typed. Use the tabs to view all branches or filter by MFL, MML, and South.
+A static branch directory that displays all records by default and filters them live by PIN code, city, or address. Use the tabs to view all branches or filter by MFL, MML, and South.
 
 ## Branch data
 
@@ -14,7 +14,8 @@ Each file contains a JSON array using this format:
     "pincode": "110001",
     "territoryCode": "0042",
     "branchName": "Branch name",
-    "branchAddress": "Branch address"
+    "branchAddress": "Branch address",
+    "city": "New Delhi"
   }
 ]
 ```
